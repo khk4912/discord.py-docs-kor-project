@@ -145,14 +145,14 @@ msgstr ""
 
 #: ../../ext/commands/cogs.rst:109
 msgid "Special Methods"
-msgstr "특별한 메소드들"
+msgstr "특별한 메소드"
 
 #: ../../ext/commands/cogs.rst:111
 msgid ""
 "As cogs get more complicated and have more commands, there comes a point "
 "where we want to customise the behaviour of the entire cog or bot."
-msgstr "Cogs가 더 복잡해지고 더 많은 명령어를 가지면서, cog 전체 또는 봇을 "
-"커스터마이즈 하고 싶은 때가 찾아옵니다."
+msgstr "Cogs가 더 복잡해지고 더 많은 명령어를 가지면서, cog 전체 또는 봇의 "
+"행동을 커스터마이즈 하고 싶은 때가 찾아옵니다."
 
 #: ../../ext/commands/cogs.rst:113
 msgid "They are as follows:"
@@ -240,7 +240,7 @@ msgid ""
 "If we want to get the subcommands as well, we can use the "
 ":meth:`.Cog.walk_commands` generator. ::"
 msgstr ""
-"만약 서브커맨드들 또한 얻고 싶으면, :meth:`.Cog.walk_commands`"
+"만약 서브커맨드들 또한 얻고 싶으면, :meth:`.Cog.walk_commands` "
 "제너레이터 사용이 가능합니다. ::"
 
 #: ../../ext/commands/cogs.rst:155
